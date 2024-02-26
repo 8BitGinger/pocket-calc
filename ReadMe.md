@@ -3,13 +3,15 @@
 
 # Pocket Calculator
 
+![screenshot](./assets/images/screenshot-calc.png)
+
 ## Description
 
-A simple Calculator Application
+A simple Calculator using vanilla JavaScript for logic!
 
 ## Table of Contents
 
-1. [Screenshot](#screenshot)
+1. [Screenshots](#screenshot)
 2. [License](#license)
 3. [Links](#links)
 4. [Questions](#support)
@@ -18,9 +20,9 @@ A simple Calculator Application
 
 <a id="screenshot"></a>
 
-## Screenshot
+## Screenshots
 
-![screenshot](./assets/images/screenshot-calc.png)
+![gif](./assets/images/pocketCalc.gif)
 
 ---
 
@@ -36,13 +38,11 @@ A simple Calculator Application
 
 ## Links
 
-### Repo Link:
+#### [Repo](https://github.com/8BitGinger/pocket-calc)
 
-https://github.com/8BitGinger/pocket-calc
+#### [Deployed](https://8bitginger.github.io/pocket-calc/)
 
-### Deployed Link:
-
-https://8bitginger.github.io/pocket-calc/
+#### [Portfolio](https://ryanfann.netlify.app/)
 
 <a id="support"></a>
 

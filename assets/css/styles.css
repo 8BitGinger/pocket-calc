@@ -4,6 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  flex-direction: column;
   background-color: hsl(0, 0%, 90%);
 }
 
@@ -13,7 +14,7 @@ body {
   border-radius: 15px;
   overflow: hidden;
   max-width: 500px;
-  height: 90%;
+  height: fit-content;
   justify-content: center;
   margin: 70px;
 }
@@ -84,4 +85,27 @@ button:active {
 
 .operator-btn:active {
   background-color: hsl(35, 83%, 76%);
+}
+
+@media screen and (max-width: 500px) {
+  #calculator {
+    margin: 0;
+    width: 80vw;
+  }
+  #keys {
+    padding: 10px;
+  }
+  .title {
+    font-size: 40px;
+  }
+  button {
+    width: 60px;
+    height: 60px;
+    font-size: 2rem;
+  }
+  #dislay,
+  input {
+    padding: 10px;
+    font-size: 3rem;
+  }
 }
