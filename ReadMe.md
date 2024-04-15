@@ -7,7 +7,7 @@
 
 ## Description
 
-A simple Calculator using vanilla JavaScript for logic!
+Looking for a reliable and easy-to-use calculator? Look no further! This web application is built with vanilla JavaScript, providing a straightforward interface for all your basic mathematical needs. Whether you're a student, professional, or just need to make a quick calculation, this calculator is the perfect tool for you. Get started with addition, subtraction, multiplication, and division, all within a clean and user-friendly design.
 
 ## Table of Contents
 
